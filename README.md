@@ -9,4 +9,24 @@ El objetivo fue analizar requisitos, descomponerlos, y diseñar documentación d
 Desglose visual del flujo y restricciones relacionadas con el campo Agregar licencia de conducir y su ventana emergente.
 
 📄 Ver documento:
-👉 Mapa mental (PDF)
+[👉 Mapa mental (PDF)](https://github.com/mgonzalezgve/urban-routes-clases--equivalencia-funcionalidades/blob/main/docs/Mapa%20Mental%20con%20correcciones%20(1).pdf)
+
+2. Clases de equivalencia y valores límite
+
+Se definieron clases positivas y negativas para los campos:
+
+Nombre
+
+Apellido
+
+Distancia
+
+Hora del viaje
+
+📄 Documentos:[Google Sheets](https://docs.google.com/spreadsheets/d/14Ih-1WhmH3r1LGfzgc3mE4DPFcKrnkI0/edit?usp=sharing&ouid=107144196103847406292&rtpof=true&sd=true)
+
+3. Diagrama de flujo — Selección de velocidad del automóvil
+
+Representación visual de la lógica interna para elegir la velocidad del automóvil según la hora de salida (sin incluir el cálculo completo del viaje).
+
+📄 Ver documento:[👉 Diagrama de flujo (PDF)](
